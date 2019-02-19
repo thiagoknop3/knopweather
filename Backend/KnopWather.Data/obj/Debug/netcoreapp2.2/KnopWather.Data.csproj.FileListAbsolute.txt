@@ -1,0 +1,8 @@
+C:\Projetos\KnopWeather\Backend\KnopWather.Data\bin\Debug\netcoreapp2.2\KnopWather.Data.deps.json
+C:\Projetos\KnopWeather\Backend\KnopWather.Data\bin\Debug\netcoreapp2.2\KnopWather.Data.dll
+C:\Projetos\KnopWeather\Backend\KnopWather.Data\bin\Debug\netcoreapp2.2\KnopWather.Data.pdb
+C:\Projetos\KnopWeather\Backend\KnopWather.Data\obj\Debug\netcoreapp2.2\KnopWather.Data.csproj.CoreCompileInputs.cache
+C:\Projetos\KnopWeather\Backend\KnopWather.Data\obj\Debug\netcoreapp2.2\KnopWather.Data.AssemblyInfoInputs.cache
+C:\Projetos\KnopWeather\Backend\KnopWather.Data\obj\Debug\netcoreapp2.2\KnopWather.Data.AssemblyInfo.cs
+C:\Projetos\KnopWeather\Backend\KnopWather.Data\obj\Debug\netcoreapp2.2\KnopWather.Data.dll
+C:\Projetos\KnopWeather\Backend\KnopWather.Data\obj\Debug\netcoreapp2.2\KnopWather.Data.pdb

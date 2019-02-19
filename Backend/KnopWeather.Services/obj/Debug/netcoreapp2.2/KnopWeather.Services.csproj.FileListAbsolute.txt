@@ -1,0 +1,14 @@
+C:\Projetos\KnopWeather\Backend\KnopWeather.Services\bin\Debug\netcoreapp2.2\KnopWeather.Services.deps.json
+C:\Projetos\KnopWeather\Backend\KnopWeather.Services\bin\Debug\netcoreapp2.2\KnopWeather.Services.dll
+C:\Projetos\KnopWeather\Backend\KnopWeather.Services\bin\Debug\netcoreapp2.2\KnopWeather.Services.pdb
+C:\Projetos\KnopWeather\Backend\KnopWeather.Services\bin\Debug\netcoreapp2.2\KnopWather.Data.dll
+C:\Projetos\KnopWeather\Backend\KnopWeather.Services\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.WebUtilities.dll
+C:\Projetos\KnopWeather\Backend\KnopWeather.Services\bin\Debug\netcoreapp2.2\KnopWather.Data.pdb
+C:\Projetos\KnopWeather\Backend\KnopWeather.Services\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.WebUtilities.xml
+C:\Projetos\KnopWeather\Backend\KnopWeather.Services\obj\Debug\netcoreapp2.2\KnopWeather.Services.csprojAssemblyReference.cache
+C:\Projetos\KnopWeather\Backend\KnopWeather.Services\obj\Debug\netcoreapp2.2\KnopWeather.Services.csproj.CoreCompileInputs.cache
+C:\Projetos\KnopWeather\Backend\KnopWeather.Services\obj\Debug\netcoreapp2.2\KnopWeather.Services.AssemblyInfoInputs.cache
+C:\Projetos\KnopWeather\Backend\KnopWeather.Services\obj\Debug\netcoreapp2.2\KnopWeather.Services.AssemblyInfo.cs
+C:\Projetos\KnopWeather\Backend\KnopWeather.Services\obj\Debug\netcoreapp2.2\KnopWeather.Services.csproj.CopyComplete
+C:\Projetos\KnopWeather\Backend\KnopWeather.Services\obj\Debug\netcoreapp2.2\KnopWeather.Services.dll
+C:\Projetos\KnopWeather\Backend\KnopWeather.Services\obj\Debug\netcoreapp2.2\KnopWeather.Services.pdb
